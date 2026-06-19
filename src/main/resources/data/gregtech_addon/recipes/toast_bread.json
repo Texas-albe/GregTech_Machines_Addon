@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:bread"
+  },
+  "result": "gregtech_addon:toast_bread",
+  "experience": 0.35,
+  "cookingtime": 200
+}
